@@ -1,4 +1,6 @@
 
+[![Build Status](https://suppstoreproject.visualstudio.com/AzureTest/_apis/build/status/ramyzbeidy.mslearn-tailspin-spacegame-web?branchName=master)](https://suppstoreproject.visualstudio.com/AzureTest/_build/latest?definitionId=8&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
